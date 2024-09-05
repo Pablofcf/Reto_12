@@ -29,6 +29,14 @@ Toma una cadena y devuelve True si todas las letras de la cadena están en mayú
 
 
 
+<h2>Bibliografía</h2>
+    <div class="bibliografia">
+        <table>
+            <tr>
+                <th>Referencia</th>
+            </tr>
+          <tr>
+                <td>https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith"></a></td>
+            </tr> 
+          <tr>
 
-
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith
