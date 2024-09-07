@@ -27,6 +27,7 @@ Toma una cadena y devuelve True si todas las letras de la cadena están en mayú
 * Cantidad de consonantes
 * Listado de las 50 palabras que más se repiten
 
+```python
 file = open('archivo.txt') 
 texto = file.read() 
 #Lista de vocales y lista de consonantes.
@@ -70,6 +71,7 @@ palabras_ordenadas = sorted(frecuencia_palabras.items(), key=lambda item: item[1
 print("Las 50 palabras que más se repiten en el texto son:")
 for palabra, frecuencia in palabras_ordenadas[:50]: # Itera sobre las primeras 50 tuplas de 'palabras_ordenadas'.
     print(f"{palabra} -> {frecuencia}")
+```
 
 <h2>Bibliografía</h2>
     <div class="bibliografia">
